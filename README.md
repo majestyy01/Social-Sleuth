@@ -1,4 +1,4 @@
-# Social Slauth
+# Social Sleuth
 ![image](https://github.com/user-attachments/assets/67934b6d-511c-452f-88e9-cb78f71b1536)
 
 Social Slauth, sosyal medya platformlarında kullanıcı adı aramak ve kullanıcıların mevcut olup olmadığını kontrol etmek için geliştirilmiş bir araçtır. Kullanıcı adı sorgulamalarınızı hızlı ve kolay bir şekilde yapmanızı sağlar.
