@@ -14,3 +14,7 @@ Social Slauth, sosyal medya platformlarında kullanıcı adı aramak ve kullanı
 1. Projeyi klonlayın veya fork edin:
    ```bash
    git clone https://github.com/kullaniciadi/Social-Slauth.git
+
+   cd Social-Sleuth
+
+   python socialsleuth.py
