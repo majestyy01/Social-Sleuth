@@ -9,7 +9,7 @@ chiefdelphi : mrtalikyaa
 medium : mrtalikyaa
 ////////////////////////////////////
 YANILMA PAYI OLABİLİR!!
-70. satırdaki bölüme ekleme yapıp yanılma payını azaltabilirsiniz.
+82. satırdaki bölüme ekleme yapıp yanılma payını azaltabilirsiniz.
 Yorum satırlarıyla kendinize göre özelleştirebilmeniz için olabildiğince bilgi vermeye çalıştım.
 """
 RED = '\033[91m'
